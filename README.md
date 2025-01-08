@@ -1,2 +1,2 @@
 # CommonBug
-该仓库适用于了解一些基本的使用solidity开发的智能合约
+该仓库适用于了解一些基本的使用solidity开发的智能合约的Bug
